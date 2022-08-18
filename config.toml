@@ -12,7 +12,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
 [Params]
   tagline = "Sundyrtsev"
   author = "Sundyrtsev"
-  description = "Full-stack web developer and UI/UX enthusiast based in San Diego, CA."
+  description = ""
   logoBig = "/images/sundyrtsev_logo.png"
   logoSmall = "/images/sundyrtsev_logo.png"
   favicon = "images/favicon.ico"
