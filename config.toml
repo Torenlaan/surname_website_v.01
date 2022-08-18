@@ -1,0 +1,47 @@
+title = "Sundyrtsev' family website"
+baseURL = "https://sundyrtsev.com"
+tags = ["portfolio"]
+languageCode = "en-US"
+config = "config.toml"
+theme = "osprey"
+canonifyURLS = true
+googleAnalytics = ""
+disqusShortname = "tomanistor"
+disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
+
+[Params]
+  tagline = "Sundyrtsev"
+  author = "Sundyrtsev"
+  description = "Full-stack web developer and UI/UX enthusiast based in San Diego, CA."
+  logoBig = "/images/sundyrtsev_logo.png"
+  logoSmall = "/images/sundyrtsev_logo.png"
+  favicon = "images/favicon.ico"
+  opengraphImage = "/images/sundyrtsev_logo.png"
+  email = ""
+  googleTagManger = ""
+  customCSS = false
+
+  # Copyright and theme author credit in footer
+  copyright = true
+  credit = false
+
+  # Cache busting of static resources (additional set up required)
+  cacheBustCSS = false
+  cacheBustJS = false
+
+  # Code highlighting with highlight.js
+  highlightJS = true
+  highlightJSStyle = "" # For custom highlight.js styles, add your /path/to/styles/default.css
+  highlightJSScript = "" # For custom highlight.js languages config, add your /path/to/highlight.pack.js
+
+
+
+  # Lazy loading with lazysizes
+  lazyloading = true
+
+
+# [[menu.main]]
+ # name = "Blog"
+ # url  = "/#blog"
+  # weight = 3
+
