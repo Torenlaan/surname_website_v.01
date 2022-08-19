@@ -1,5 +1,5 @@
 title = "Sundyrtsev' family website"
-baseURL = "https://sundyrtsev.com"
+baseURL = "https://silver-biscuit-b9de49.netlify.app/"
 tags = ["portfolio"]
 languageCode = "en-US"
 config = "config.toml"
